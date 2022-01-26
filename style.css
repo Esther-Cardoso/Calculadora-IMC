@@ -83,10 +83,9 @@ body {
   background: var(--destaque-color);
   color: var(--text-light-color);
   padding: 20px;
-  max-width: 200px;
+  max-width: 250px;
   margin: 40px auto;
   border-radius: 20px;
-  /* text-transform: uppercase; */
   font-weight: bold;
   letter-spacing: 0.02em;
   line-height: 1.5;
